@@ -1,57 +1,57 @@
 {
     "title": "Hatay Sofistike Yerler Rehberi",
-    "description": "Hatay şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Hatay şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "hatay-sofistike-yerler-1",
-            "title": "Hatay Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Hatay şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "hatay-sofistike-yerler-2",
-            "title": "Hatay Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Hatay şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "hatay-sofistike-yerler-3",
-            "title": "Hatay Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Hatay şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "hatay-sofistike-yerler-4",
-            "title": "Hatay Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
+            "id": "antakya-museum-hotel",
+            "title": "The Museum Hotel Antakya",
+            "category_badge": "Dünya Çapında Mimari",
             "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Hatay şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Arkeolojik kazı alanının üzerinde çelik kolonlarla havada süzülen, dünyanın en etkileyici müze-oteli.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/museum-hotel",
+            "button_text": "Oiteli Gör"
         },
         {
-            "id": "hatay-sofistike-yerler-5",
-            "title": "Hatay Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "savon-hotel-antakya",
+            "title": "Savon Hotel & Avlu Bar",
+            "category_badge": "Tarihi Sabun Fabrikası",
+            "badge_icon": "fa-wine-glass",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Hatay şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "1860'larda sabunhaneydi, bugün yüksek tavanlı otantik mimarisiyle Antakya’nın en zarif butik mekânı.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/savon-hotel",
+            "button_text": "Mekanı İncele"
+        },
+        {
+            "id": "antakya-gastronomi-evi",
+            "title": "Hatay UNESCO Gastronomi Evi",
+            "category_badge": "Gurme Lezzet Noktası",
+            "badge_icon": "fa-utensils",
+            "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Tarihi Antakya konağında Hatay'ın Medeniyetler Sofrası lezzetlerini ince sunumlarla tatsabileceğiniz restoran.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/gastronomi-evi",
+            "button_text": "Lezzetleri Keşfet"
+        },
+        {
+            "id": "arsuz-yacht-club",
+            "title": "Arsuz Marina & Marina Lounge",
+            "category_badge": "Akdeniz Kıyısı Şıklığı",
+            "badge_icon": "fa-sailboat",
+            "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "İskenderun Körfezi'nin en şık sahil kasabası Arsuz'da yat kulübü ve deniz mahsulleri bistrosu.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/arsuz-marina",
+            "button_text": "Marinayı Keşfet"
+        },
+        {
+            "id": "affan-kahvesi-vip",
+            "title": "Tarihi Affan Kahvesi & Haytalı",
+            "category_badge": "Kültürel Tatlar",
+            "badge_icon": "fa-ice-cream",
+            "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Fransız mimarisi taş binada, gül suyu ve nişastayla hazırlanan efsanevi 'Haytalı' tatlısı deneyimi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-sofistike-yerler/affan-kahvesi",
+            "button_text": "Tarihi Hissedin"
         }
     ]
 }
